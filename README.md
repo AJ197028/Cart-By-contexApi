@@ -1,3 +1,9 @@
+
+![IMG_20240322_170640](https://github.com/AJ197028/Cart-By-contexApi/assets/116809430/cd42795d-c2bf-4b82-bf70-354e6ff0682f)
+![IMG_20240322_170736](https://github.com/AJ197028/Cart-By-contexApi/assets/116809430/f68b4e7a-2b94-4507-9c3c-d847f9836d12)
+![IMG_20240322_170956](https://github.com/AJ197028/Cart-By-contexApi/assets/116809430/5952537b-ed64-41d2-9cc7-4f9285605d47)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
